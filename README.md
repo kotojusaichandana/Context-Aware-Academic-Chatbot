@@ -62,7 +62,7 @@ Context_Aware_Chatbot/
 
 Clone the repository
 
-git clone https://github.com/yourusername/Context-Aware-Academic-Chatbot.git
+github link: https://github.com/kotojusaichandana/Context-Aware-Academic-Chatbot
 
 Navigate to the project folder
 
